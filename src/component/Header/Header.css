@@ -1,0 +1,18 @@
+.header-section{
+    background-color: #1C2B35;
+    padding: 20px 85px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar a {
+    text-decoration: none;
+    color: #fff;
+    margin-left: 20px;
+    font-size: 18px;
+}
