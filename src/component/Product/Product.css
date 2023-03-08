@@ -29,8 +29,18 @@
   width: 100%;
   position: absolute;
   bottom: 0;
-  background: #ffe0b3;
+  background: #fff0c8;
   border: 0;
   border-top: 1px solid #95a0a7;
   border-radius: 0px 0px 8px 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.product-button button:hover{
+  background-color: orange;
+}
+.product-button button p{
+  font-size: 18px;
+  margin: 10px;
 }
